@@ -1,5 +1,7 @@
 # EcoBrain - Sistema de Controle Financeiro
 
+## Separado em Back e Front
+
 ## Visão Geral
 O EcoBrain é um sistema completo de controle financeiro pessoal que permite aos usuários gerenciar suas finanças de forma eficiente e intuitiva. O sistema é composto por um backend em Ruby on Rails 8 e um frontend em React com TypeScript.
 
